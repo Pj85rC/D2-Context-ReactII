@@ -1,11 +1,14 @@
 body {
   margin: 0;
+  background: #fff;
 }
 
 .App {
   font-family: "Maitree", serif;
   text-align: center;
   color: #43a047;
+  width: 100vw;
+  height: 100vh;
 }
 
 h1 {

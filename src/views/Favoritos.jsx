@@ -1,4 +1,4 @@
-import "../assets/css/galeria.css";
+
 
 import { useContext } from "react";
 
